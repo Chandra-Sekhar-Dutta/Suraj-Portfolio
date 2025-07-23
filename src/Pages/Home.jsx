@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import TechStack from '../Components/TechStack';
-import SurajProfilePhoto from '../Assets/SurajProfilePhoto.jpg';
+import SurajProfilePhoto from '../assets/SurajProfilePhoto.jpg';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
