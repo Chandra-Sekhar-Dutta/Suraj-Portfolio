@@ -3,9 +3,9 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 // importing project videos
-import AI_ProjectVideo from '../Assets/AI_Project.mp4';
-import FraudMessageVideo from '../Assets/FraudDetection.mp4';
-import EmailSenderVideo from '../Assets/EmailSender.mp4';
+import AI_ProjectVideo from '../assets/AI_Project.mp4';
+import FraudMessageVideo from '../assets/FraudDetection.mp4';
+import EmailSenderVideo from '../assets/EmailSender.mp4';
 
 const projects = [
   {
